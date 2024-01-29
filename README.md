@@ -7,9 +7,13 @@
 Having traversed numerous oceans in the realms of business management and sales, I now find myself charting courses through the seas of teaching mathematics and web design as a freelancer. Join me in this haven, where my projects shine as beacons of my love for software development, showcasing an enduring commitment to continuous learning and growth.
 Embark on this passionate odyssey with me into uncharted professional waters! As a captain adept in strategic thinking and group dynamics, I revel in creating solutions to intriguing challenges. Together, let's plunder treasures and chart new courses to exciting opportunities.
 Ready to explore the depths? Dive into my projects and let's navigate the currents of success! 🛶
+
 💜 #beach #volleyball #dance
+
 🎓 Alma Mater [Open University](https://bit.ly/48fOMhc)
+
 💻 Studying now at [DIO](https://dio.me/users/reis_devporto)
+
 🌐 Find out more at the [website](https://bit.ly/3RCF2IG)
 
 
