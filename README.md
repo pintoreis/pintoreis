@@ -33,8 +33,8 @@ Ready to explore the depths? Dive into my projects and let's navigate the curren
 [<img alt="+18" src="https://img.shields.io/badge/+_18-+_18?style=plastic&color=%239b59b6">](https://www.youtube.com/watch?v=h0ffIJ7ZO4U)
 
 ## 🐳 Seas sailed
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pintoreis&theme=material_palenight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pintoreis&theme=material_palenight)
+![Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pintoreis&theme=material_palenight)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pintoreis&theme=material_palenight)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pintoreis&bg_color=292d3e&border_color=c792ea&title_color=c792ea&text_color=89ddff)
 
 ## 🎌 Parley
