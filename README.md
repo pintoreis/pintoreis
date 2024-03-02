@@ -4,7 +4,7 @@
 ⚓️ Welcome aboard the ship @pintoreis, where my code unfurls its sails across the vast digital seas! I'm a tech enthusiast with an unwavering passion for front-end development, skillfully navigating the binary waves to craft innovative solutions that stand as digital treasures.
 
 ## ☠️ About the Captain
-Having traversed numerous oceans in the realms of business management and sales, I now find myself charting courses through the seas of teaching mathematics and web design as a freelancer. Join me in this haven, where my projects shine as beacons of my love for software development, showcasing an enduring commitment to continuous learning and growth.
+Having traversed numerous oceans in the realms of business management and sales, I now find myself charting courses through the seas of teaching mathematics, and web development and design as a freelancer. Join me in this haven, where my projects shine as beacons of my love for software development, showcasing an enduring commitment to continuous learning and growth.
 Embark on this passionate odyssey with me into uncharted professional waters! As a captain adept in strategic thinking and group dynamics, I revel in creating solutions to intriguing challenges. Together, let's plunder treasures and chart new courses to exciting opportunities.
 Ready to explore the depths? Dive into my projects and let's navigate the currents of success! 🛶
 
