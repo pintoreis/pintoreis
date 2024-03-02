@@ -21,7 +21,7 @@ Ready to explore the depths? Dive into my projects and let's navigate the curren
 [<img alt="Agile" src="https://img.shields.io/badge/Agile-Agile?style=plastic&color=%239b59b6">](https://agilemanifesto.org/)
 [<img alt="Canva" src="https://img.shields.io/badge/Canva-Canva?style=plastic&logo=Canva&logoColor=%23FFFFFF&labelColor=%239b59b6&color=%239b59b6">](https://www.canva.com/)
 [<img alt="CSS3" src="https://img.shields.io/badge/CSS3-CSS3?style=plastic&logo=CSS3&logoColor=%23FFFFFF&labelColor=%239b59b6&color=%239b59b6">](https://css3.com/)
-[<img alt="Figma" src="https://img.shields.io/badge/Figma-Figma?style=plastic&logo=Figma&logoColor=%23FFFFFF&labelColor=%239b59b6&color=%239b59b6">]([https://www.figma.com](https://www.figma.com/@devporto/))
+[<img alt="Figma" src="https://img.shields.io/badge/Figma-Figma?style=plastic&logo=Figma&logoColor=%23FFFFFF&labelColor=%239b59b6&color=%239b59b6">]([https://www.figma.com](https://www.figma.com/@devporto/)
 [<img alt="GIT" src="https://img.shields.io/badge/GIT-GIT?style=plastic&logo=GIT&logoColor=%23FFFFFF&labelColor=%239b59b6&color=%239b59b6">](https://git-scm.com/)
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-GitHub?style=plastic&logo=GitHub&logoColor=%23FFFFFF&labelColor=%239b59b6&color=%239b59b6">](https://github.com/)
 [<img alt="HTML5" src="https://img.shields.io/badge/HTML5-HTML5?style=plastic&logo=HTML5&logoColor=%23FFFFFF&labelColor=%239b59b6&color=%239b59b6">](https://en.wikipedia.org/wiki/HTML5)
