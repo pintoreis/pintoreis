@@ -32,7 +32,7 @@ Ready to explore the depths? Dive into my projects and let's navigate the curren
 [<img alt="MySQL" src="https://img.shields.io/badge/MySQL-MySQL?style=plastic&logo=mysql&logoColor=white&color=%239b59b6">](https://www.mysql.com/)
 [<img alt="Scrum" src="https://img.shields.io/badge/Scrum-Scrum?style=plastic&color=%239b59b6">](https://www.scrum.org/)
 [<img alt="Trello" src="https://img.shields.io/badge/Trello-Trello?style=plastic&logo=Trello&labelColor=%239b59b6&color=%239b59b6">](https://trello.com/)
-[<img alt="UI Design" src="https://img.shields.io/badge/UI%20Design-UI%20Design?style=plastic&color=9b59b6">](https://pt.wikipedia.org/wiki/Design_de_interface/)
+[<img alt="UI Design" src="https://img.shields.io/badge/UI%20Design-UI%20Design?style=plastic&color=9b59b6">](https://en.wikipedia.org/wiki/User_interface_design/)
 [<img alt=" UX Design " src="https://img.shields.io/badge/UX%20Design-UX%20Design?style=plastic&color=9b59b6">](https://en.wikipedia.org/wiki/User_experience_design/)
 [<img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-VS%20Code?style=plastic&logo=Visual%20Studio%20Code&color=%239b59b6">](https://code.visualstudio.com/)
 [<img alt="Windows" src="https://img.shields.io/badge/Windows-Windows?style=plastic&logo=Windows&labelColor=%239b59b6&color=%239b59b6">](https://www.microsoft.com/en-gb/windows/)
