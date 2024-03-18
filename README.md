@@ -24,6 +24,7 @@ Ready to explore the depths? Dive into my projects and let's navigate the curren
 [<img alt="Figma" src="https://img.shields.io/badge/Figma-Figma?style=plastic&logo=Figma&logoColor=%23FFFFFF&labelColor=%239b59b6&color=%239b59b6">](https://www.figma.com/@devporto/)
 [<img alt="GIT" src="https://img.shields.io/badge/GIT-GIT?style=plastic&logo=GIT&logoColor=%23FFFFFF&labelColor=%239b59b6&color=%239b59b6">](https://git-scm.com/)
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-GitHub?style=plastic&logo=GitHub&logoColor=%23FFFFFF&labelColor=%239b59b6&color=%239b59b6">](https://github.com/)
+[<img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-Google%20Analytics?style=plastic&logo=Google%20Analytics&logoColor=white&color=9b59b6">](https://marketingplatform.google.com/about/analytics/)
 [<img alt="HTML5" src="https://img.shields.io/badge/HTML5-HTML5?style=plastic&logo=HTML5&logoColor=%23FFFFFF&labelColor=%239b59b6&color=%239b59b6">](https://en.wikipedia.org/wiki/HTML5)
 [<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-JavaScript?style=plastic&logo=JavaScript&logoColor=%23FFFFFF&labelColor=%239b59b6&color=%239b59b6">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img alt="Markdown" src="https://img.shields.io/badge/Markdown-Markdown?style=plastic&logo=Markdown&labelColor=%239b59b6&color=%239b59b6">](https://www.markdownguide.org/)
