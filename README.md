@@ -12,7 +12,7 @@ Ready to explore the depths? Dive into my projects and let's navigate the curren
 
 🎓 Alma Mater [Open University](https://bit.ly/48fOMhc)
 
-💻 Studying now at [DIO](https://dio.me/users/reis_devporto)
+💻 Studying now cybersecurity @ [CINEL](https://formacao.cinel.pt/courseactions/show/3585.html)
 
 🌐 Find out more at the [website](https://bit.ly/3RCF2IG)
 
