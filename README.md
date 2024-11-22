@@ -46,5 +46,6 @@ Ready to explore the depths? Dive into my projects and let's navigate the curren
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pintoreis&bg_color=292d3e&border_color=c792ea&title_color=c792ea&text_color=89ddff)
 
 ## 🎌 Parley
-Feel free to plunder me repositories and drop me a message! Always open to new opportunities and interesting collaborations.
-Fair winds and following seas!
+Feel free to plunder my repositories and drop me a message! Always open to new opportunities and interesting collaborations.
+
+Fair winds and following seas! 🏴‍☠️
