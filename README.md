@@ -12,9 +12,9 @@ Ready to explore the depths? Dive into my projects and let's navigate the curren
 
 🎓 Alma Mater [Open University](https://bit.ly/48fOMhc)
 
-💻 Studying now cybersecurity @ [CINEL](https://formacao.cinel.pt/courseactions/show/3585.html)
+💻 Studying now cybersecurity @ [Open University](https://portal.uab.pt/alv/wp-content/uploads/sites/9/2023/09/Microcredencial-em-Ciberseguranca-Ofensiva_WEB_signed.pdf)
 
-🌐 Find out more at the [website](https://bit.ly/3RCF2IG)
+🌐 Find out more @ [website](https://bit.ly/3RCF2IG)
 
 
 ## ⚔️ Pirate Skills
